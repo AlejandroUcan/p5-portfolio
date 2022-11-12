@@ -1,0 +1,47 @@
+body {
+   background-color:aliceblue;
+}
+
+a {
+   text-decoration: none;
+}
+
+.seccion {
+   color: beige;
+   margin: 10%;
+   padding: 30px;
+   text-align: center;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.seccion h2 {
+   font-style: italic;
+   font-weight: bolder;
+}
+
+.seccion h5 {
+   font-weight: bolder;
+}
+
+.seccion hr {
+   width: 40%;
+   height:2px;
+   border-width:2;
+   color:darkgray;
+   background-color:darkgrey;
+   margin-left: 30%;
+}
+.seccion img {
+   width: 18vw;
+   border-radius: 50%;
+}
+
+.container img {
+   padding: 5px;
+}
+
+.descripcion {
+   width: 50%;
+   margin: 0 auto;
+   text-align: justify;
+}
